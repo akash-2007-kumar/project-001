@@ -1,4 +1,4 @@
 # project-001
 this is my first github project.
 <br>
-Author --> akash kumar
+Author --> Akash kumar
